@@ -7,8 +7,6 @@
 
 **Link to work:** http://codepen.io/clownShewz/pen/WRydze
 
-# 100 Days Of Code - Log
-
 ### Day 2: February 05, 2017 
 **Today's Progress: Completed the Tribute page challenge and started working on the portfolio page.
 
