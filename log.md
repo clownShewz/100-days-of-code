@@ -15,8 +15,8 @@
 **Link to work: 
 
 ### Day 3: February 06, 2017 
-**Today's Progress: Completed the Tribute page challenge and started working on the portfolio page.
+**Today's Progress:
 
-**Thoughts: Had some trouble with the Navbar. Need to come up with a better way to format pages.
+**Thoughts: 
 
 **Link to work: 
