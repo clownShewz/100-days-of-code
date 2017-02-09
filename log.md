@@ -15,8 +15,22 @@
 **Link to work: 
 
 ### Day 3: February 06, 2017 
-**Today's Progress:
+**Today's Progress:Finished the portfolio page. Learned about Font Awesome when trying to get my social network links in. 
 
-**Thoughts: 
+**Thoughts: Spent a lot of time messing around with design and colors. Need to work on my design abilities and layout skills. A lot of stumbling blocks there. It was fun to mess around more with design as I spend more time it seems on functionality. 
+
+**Link to work: https://codepen.io/clownShewz/pen/vgrryM
+
+### Day 4: February 07, 2017 
+**Today's Progress:Started working on the picture album for the website. Working through sematic's grid and image displays. Started working through code camps javascript tasks. Again trying to use the stuff I know as review and practice instead of skipping ahead. 
+
+**Thoughts: Solid progress. Images appearing in a basic way. Want to separate the image logic out. 
 
 **Link to work: 
+
+### Day 5: February 08, 2017 
+**Today's Progress: Worked through an issue with my D3 and Angular 2 implementation of a hangman game. I was trying to attach the D3 canvas to a div that didn't exist yet. Took a minute to figure out that was happening. Also worked through new compenant for my daughter's website. I wanted to create a picture component that would be responsible for managing each image in her picture album. Another change to work through passing data down through the components. 
+
+**Thoughts:Productive day got through a stumbling block. Started reading up on Dependency Injection in Angular2.  
+
+**Link to work: will post when I finish creating generic modules for the website stuff.
