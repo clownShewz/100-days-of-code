@@ -34,3 +34,14 @@
 **Thoughts:Productive day got through a stumbling block. Started reading up on Dependency Injection in Angular2.  
 
 **Link to work: will post when I finish creating generic modules for the website stuff.
+
+### Day 6: February 09, 2017 
+**Today's Progress: Started tackling the image component in my daughter's website. Got the design amnd layout in place and started framing out the input for adding descriptions. 
+
+**Thoughts:Got hung up by starting to code without a real plan of action but as I continued to work I reached some clarity. I think I ended up with a solid solution and really like the final product.  
+
+### Day 6: February 10, 2017 
+**Today's Progress: Continued pushing through the Javascript tasks on Free Code Camp. Finished creating the inputs and working though some Angular 2 form concepts. After a few attempts and some issues I feel like the idea is starting to gel in my brain. Hope to add the storage component so the descriptions are being persisted.
+
+**Thoughts:Frustrating mistakes. Head not in the game today. 
+
