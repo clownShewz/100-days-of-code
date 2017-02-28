@@ -45,3 +45,9 @@
 
 **Thoughts:Frustrating mistakes. Head not in the game today. 
 
+#####WAS SICK FOR A WEEK AND HAD ALREADY FALLEN BEHIND ON MY LOG. WILL UPDATE THESE DAYS LATER FROM MY NOTES. 
+
+### Day 20: February 27, 2017 
+**Today's Progress:Finished up the Quote Generator and started on the weather page challenge in Free Code Camp.
+Wrote the code sepeately on webstorm need to clean things up so I can add to code pen. 
+**Thoughts: Styling is getting easier but it seems like most of the time spent on the page is related to design. 
