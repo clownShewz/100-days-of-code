@@ -51,3 +51,7 @@
 **Today's Progress:Finished up the Quote Generator and started on the weather page challenge in Free Code Camp.
 Wrote the code sepeately on webstorm need to clean things up so I can add to code pen. 
 **Thoughts: Styling is getting easier but it seems like most of the time spent on the page is related to design. 
+
+### Day 21: February 28, 2017 
+**Today's Progress:Continued work on the weather app. Decided to use the Dark Sky api becuase it's pretty nice. Not sure how I'm going to work this into a code pen. I liked the extra challenge of having to create a server in the middle to call and return the data from Dark Sky. Completed a very simplistic version of that tonight. Currently piping the reposnse into a file. I'll be passing that back and adding a check to only call the API if that file is older than 10 minutes. 
+**Thoughts: Like working with Node and Express. request module makes working with API's less complicated.  
