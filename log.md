@@ -59,3 +59,12 @@ Wrote the code sepeately on webstorm need to clean things up so I can add to cod
 ### Day 22: March 1, 2017 
 **Finished up enough of the middle layer to begin serving data. Hooked up the front end and set up a basic view to ensure that the data was being returned from the middle layer/server and rendering as expected.  
 **Thoughts:  
+
+### Day 23: March 2, 2017 
+**Cleaned up the HTML for the weather app added formatting and bootstrp components. Looking nicer.
+**Thoughts:  
+
+
+### Day 24: March 3, 2017 
+**Set up an AWS lambda to serve the API thought AWS API Gateway. Total pain in the ass and if you want to use express it looks like you need a seperate library. It took some tiem to troubleshoot and get the data served up. Its still having authenticaiotn issues in PROD but the beta version seems to be working, likely because authenticaion is turned off. Added a time convert function to ocnvert the tiem values. Thinking that might be a handy microservice at some point.  
+**Thoughts: Took way to long to get the Lambda working. Got stuck on set up but then got stuck again on returning the data from the API call. Need to relax and pay attention to documentation. 
